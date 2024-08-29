@@ -8,3 +8,7 @@ program that allows you to simplify a launch of sqlmap on **windows** just by wr
 2) put it in the root folder of sqlmap
 3) add folder to the windows path (optional, recommended)
 ```
+
+
+##
+**i'll glad to get a star from you ❤️**
